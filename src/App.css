@@ -1,0 +1,25 @@
+#navBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px;
+}
+
+.navRight {
+  display: flex;
+  justify-content: space-around;
+}
+
+.navRight p {
+  padding-left: 25px;
+}
+
+.navRight p a {
+  text-decoration: none !important;
+  color: #000;
+}
+
+#footer {
+  text-align: center;
+  padding: 20px;
+}
