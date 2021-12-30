@@ -10,6 +10,9 @@ const About = () => {
       <div className="title">
         <h1>Halaman About</h1>
       </div>
+      <div className="content">
+        <p>aaa</p>
+      </div>
   </div>
   );
 };

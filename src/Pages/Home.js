@@ -5,10 +5,16 @@ const Home = () => {
   return (
     <div id="Home">
       <head>
-        <title>Template</title>
+        <title>NIF</title>
       </head>
       <div className="title">
-        <h1>Template React SPA</h1>
+        <h1>Welcome to My Portfolio</h1>
+      </div>
+      <div className="subTitle"> 
+        <h3>
+          My name is Faris Ilham Noormandiri.<br/>
+          I am a third-year college student majoring in Computer Science.
+        </h3>
       </div>
     </div>
   );

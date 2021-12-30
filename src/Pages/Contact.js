@@ -10,6 +10,9 @@ const Contact = () => {
       <div className="title">
         <h1>Halaman Contact</h1>
       </div>
+      <div className="content">
+        <p>bbb</p>
+      </div>
   </div>
   );
 };
